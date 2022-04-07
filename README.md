@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualifier Application
 
 Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
@@ -12,13 +12,27 @@ Describe the technologies required to use your project such as programming langu
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+pip install fire
+pip install questionary
+from pathlib import Path
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+this is an example of how the loan qualifier application works.
+
+? Enter a file path to a rate-sheet (.csv): data/daily_rate_sheet.csv
+? What's your credit score? 750
+? What's your current amount of monthly debt? 0
+? What's your total monthly income? 10000
+? What's your desired loan amount? 100000
+? What's your home value? 300000
+The monthly debt to income ratio is 0.00
+The loan to value ratio is 0.33.
+Found 15 qualifying loans
+? Would you like to save the qualifying loans? Yes
+? Enter a file path to save qualifying loans (.csv): data/qualifying_loans.csv
 
 ---
 
