@@ -1,0 +1,670 @@
+   50  ls
+   51  cd ~/git
+   52  git clone git@github.com:VViIIis/codingdemo.git
+   53  git clone git@github.com:VViIIis/codingdemo.git
+   54  cd
+   55  cd ~/git
+   56  cd ~/desktop
+   57  git clone git@github.com:VViIIis/codingdemo.git
+   58  cd ~/git
+   59  cd ~/Desktop
+   60  git clone git@github.com:VViIIis/codingdemo1.git
+   61  open .
+   62  cd codingdemo1/
+   63  ls
+   64  git add -A
+   65  git commit -m "Added index.html"
+   66  git push origin main
+   67  git checkout -b header
+   68  git add -A
+   69  git commit -m "Adds a header to index.html"
+   70  git push origin header
+   71  git checkout main
+   72  conda activate dev
+   73  jupyter lab
+   74  conda deactivate
+   75  cd Desktop
+   76  ssh-add ~/ .ssh/id_rsa
+   77  ssh-keygen –t rsa –b 4096 –C JTWILLIS113@GMAIL.COM
+   78  ssh-keygen –t rsa –b 4096 –C "YOURGITHUBEMAIL@PLACEHOLDER.NET"
+   79  Boot pwd
+   80  pwd
+   81  ls
+   82  cd desktop
+   83  pwd
+   84  ls
+   85  mkdir FinTech-Workspace
+   86  cd FinTech-Workspace
+   87  cd ..
+   88  cd ~
+   89  cd FinTech-Workspace
+   90  ls
+   91  cd FinTech-Workspace
+   92  cd Desktop
+   93  ls
+   94  cd FinTech-Workspace
+   95  cd Python_Project
+   96  ls
+   97  conda activate dev
+   98  python --version
+   99  code .
+  100  code .python hello_python.py
+  101  python hello_python.py
+  102  conda deactivate
+  103  code .
+  104  python Stock_Price.py
+  105  conda activate dev
+  106  python Stock_Price.py
+  107  python Stock_Price.py
+  108  python hello_python.py
+  109  python Stock_Price.py
+  110  python Stock_Price.py
+  111  python stock_price.py
+  112  conda deactivate
+  113  cd
+  114  cd desktop
+  115  l
+  116  ls
+  117  cd FinTech-Workspace
+  118  cd Python_Project
+  119  conda activate dev
+  120  python stock_price.py
+  121  python stock_price.py
+  122  conda deactivate
+  123  code .
+  124  cd
+  125  cd ~
+  126  cd Desktop
+  127  cd FinTech-Workspace
+  128  ls
+  129  conda activate dev
+  130  python stock_price.py
+  131  deactivate conda
+  132  conda deactivate
+  133  cd Python_Project
+  134  ls
+  135  python stock_price.py
+  136  python stock_price.py
+  137  python stock_price.py
+  138  pwd
+  139  cd documents
+  140  ls
+  141  pwd
+  142  cd ..
+  143  cd Desktop
+  144  ls
+  145  cd
+  146  ls
+  147  cd Applications
+  148  ls
+  149  pwd
+  150  cd ..
+  151  cd 03
+  152  python lists.py
+  153  python lists.py
+  154  conda activate dev
+  155  python variables.py
+  156  cd Desktop
+  157  ls
+  158  cd FinTech-Workspace
+  159  conda activate dev
+  160  python stock_price.py
+  161  python stock_price.py
+  162  python stock_price.py
+  163  python stock_price.py
+  164  python stock_price.py
+  165  python hello_variable_world.py
+  166  ls
+  167  cd 01_Hello_Variable_World
+  168  ls
+  169  cd Unsolved
+  170  ls
+  171  python hello_variable_world.py
+  172  python
+  173  cd
+  174  cd desktop
+  175  ls
+  176  cd FinTech-Workspace
+  177  ls
+  178  conda activate dev
+  179  python stock_price.py
+  180  python stock_price.py
+  181  python stock_price.py
+  182  python stock_price.py
+  183  python stock_price.py
+  184  python stock_price.py
+  185  python stock_price.py
+  186  python stock_price.py
+  187  python stock_price.py
+  188  pwd
+  189  cd ..
+  190  ls
+  191  cd 02_Listing_Assets
+  192  ls
+  193  cd Unsolved
+  194  ls
+  195  python listin_assets.py
+  196  pwd
+  197  python listing_assets.py
+  198  python listing_assets.py
+  199  python listing_assets.py
+  200  python listing_assets.py
+  201  pwd
+  202  cd Desktop
+  203  cd ..
+  204  cd ..
+  205  cd FinTech-Workspace
+  206  ls
+  207  python stock_price.py
+  208  python stock_price.py
+  209  python stock_price.py
+  210  python stock_price.py
+  211  pwd
+  212  cd ..
+  213  cd 03
+  214  cd 03_The_401K_Shuffle
+  215  ls
+  216  cd Unsolved
+  217  python the_401k_shuffle.py
+  218  python the_401k_shuffle.py
+  219  python the_401k_suffle.py
+  220  python the_401K_shuffle.py
+  221  python the_401k_shuffle.py
+  222  python the_401k_shuffle.py
+  223  python the_401k_shuffle.py
+  224  python the_401k_shuffle.py
+  225  cd Desktop
+  226  cd FinTech-Workspace
+  227  ls
+  228  conda activate dev
+  229  python M1L4.py
+  230  python M1L4.py
+  231  python M1L4.py
+  232  pythonb M1L4.py
+  233  python M1L4.py
+  234  python M1L4.py
+  235  python M1L4.py
+  236  python M1L4.py
+  237  python conditional_statement.py
+  238  pwd
+  239  ls
+  240  cd 01_Conditional_Statement
+  241  l
+  242  ls
+  243  cd Unsolved
+  244  python conditional_statement.py
+  245  python conditional_statement.py
+  246  cd desktop
+  247  cd FinTech-Workspace
+  248  ls
+  249  cd ..
+  250  cd ..
+  251  ls
+  252  python M1L4.py
+  253  python M1L4.py
+  254  python M1L4.py
+  255  python M1L4.py
+  256  python M1L4.py
+  257  cd ..
+  258  cd FinTech-Workspace
+  259  ls
+  260  cd 02_Nested_Unconditional
+  261  cd 02_Nested_Unconditionals
+  262  cd 02_Nested_Conditions
+  263  cd 02_Nested_Conditionals
+  264  ls
+  265  cd Unsolved
+  266  python nested_conditionals.py
+  267  python nested_conditionals.py
+  268  python nested_conditionals.py
+  269  python nested_conditionals.py
+  270  cd ..
+  271  cd ..
+  272  ls
+  273  cd 03_Split_Second_Homebuying
+  274  ls
+  275  cd Unsolved
+  276  python split_second_homebuying.py
+  277  python split_second_homebuying.py
+  278  python split_second_homebuying.py
+  279  python split_second_homebuying.py
+  280  pythoin split_second_homebuying.py
+  281  python split_second_homebuying.py
+  282  python split_second_homebuying.py
+  283  python split_second_homebuying.py
+  284  python split_second_homebuying.py
+  285  python split_second_homebuying.py
+  286  python split_second_homebuying.py
+  287  python split_second_homebuying.py
+  288  python split_second_homebuying.py
+  289  cd ..
+  290  cd ..
+  291  ls
+  292  python M1L5.py
+  293  python M1L5.py
+  294  python M1L5.py
+  295  cd ..
+  296  cd FinTech-Workspace
+  297  ls
+  298  cd M1L5
+  299  ls
+  300  cd 03_Split_Second_Homebuying_Part_2
+  301  python split_second_part_2.py
+  302  cd Unsolved
+  303  python split_second_part_2.py
+  304  python split_second_part_2.py
+  305  cd ..
+  306  cd ..
+  307  cd ..
+  308  python M1L6.py
+  309  pwd
+  310  ls
+  311  python M1L6.py
+  312  python M1L6.py
+  313  python M1L6.py
+  314  cd ~/
+  315  python /Users/vviiiis/Desktop/FinTech-Workspace/Week 1/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  316  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week 1/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  317  python variables.py
+  318  cd desktop/FinTech-Workspace
+  319  ls
+  320  pwd
+  321  pwd
+  322  cd Week 1/Class_1_Activities/05_Ins_Dictionaries
+  323  cd ..
+  324  cd ~/
+  325  cd Week 1/Class_1_Activities/05_Ins_Dictionaries
+  326  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week 1/Class_1_Activities/05_Ins_Dictionaries
+  327  ls
+  328  cd desktop
+  329  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week 1/Class_1_Activities/05_Ins_Dictionaries
+  330  cd ~/
+  331  /Users/vviiiis/Desktop/FinTech-Workspace/Week 1/Class_1_Activities/05_Ins_Dictionaries/Solved/dicts.py
+  332  cd FinTech-Workspace
+  333  cd desktop
+  334  cd FinTech-Workspace
+  335  ls
+  336  pwd
+  337  ls
+  338  cd Week 1
+  339  cd Week_1
+  340  cd Week 1
+  341  pwd
+  342  cd Week
+  343  cd Week_1
+  344  ls
+  345  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/M1L6.py
+  346  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1
+  347  ls
+  348  python conditional_statements.py
+  349  /usr/local/bin/python3
+  350  python returned_goods.py
+  351  python returned_goods.py
+  352  python returned_goods.py
+  353  python returned_goods.py
+  354  python split_second_part_2.py
+  355  python split_second_part_2.py
+  356  python M1L6.py
+  357   /usr/bin/env /usr/local/bin/python3 /Users/vviiiis/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 50382 -- /Users/vviiiis/Desktop/FinTech-Workspace/M1L4.py 
+  358   cd /Users/vviiiis/Desktop/FinTech-Workspace ; /usr/bin/env /usr/local/bin/python3 /Users/vviiiis/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 50389 -- /Users/vviiiis/Desktop/FinTech-Workspace/M1L4.py 
+  359   cd /Users/vviiiis/Desktop/FinTech-Workspace ; /usr/bin/env /usr/local/bin/python3 /Users/vviiiis/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 50543 -- /Users/vviiiis/Desktop/FinTech-Workspace/M1L4.py 
+  360  python M1L5.py
+  361  python M1L5.py
+  362  python M1L5.py
+  363  python M1L5.py
+  364  python M
+  365  python M1L5.py
+  366  python a_definitive_buy.py
+  367  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/Class_2_Activities/03_Stu_Conditional_Statements/Solved
+  368  python conditional_statements.py
+  369  python conditional_statements.py
+  370  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/Class_2_Activities/04_Ins_Conditionals/Solved
+  371  python conditionals.py
+  372  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/Class_2_Activities/04_Ins_Conditionals/Solved
+  373  python conditionals.py
+  374  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/Class_2_Activities/05_Stu_Conditionals/Unsolved
+  375  python conditionals.py
+  376  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/Class_2_Activities/06_Ins_Functions/Solved
+  377  cd functions.py
+  378  ls
+  379  python functions.py
+  380  python functions
+  381  pwd
+  382  ls
+  383  python functions.py
+  384  python functions.py
+  385  cd ~/
+  386  cd desktop
+  387  ls
+  388  cd FinTech-Workspace
+  389  ls
+  390  cd Week_1
+  391  ls
+  392  python M1L6.py
+  393  python M1L6.py
+  394  python M1L6.py
+  395  python M1L6.py
+  396  python M1L6.py
+  397  python M1L6.py
+  398  python M1L6.py
+  399  python M1L6.py
+  400  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  401  ls
+  402  cd 01_Racking_Up_The_Profit
+  403  ls
+  404  cd unsolved
+  405  ls
+  406  python racking_up_the_profit.py
+  407  python racking_up_the_profits.py
+  408  python racking_up_the_profit.py
+  409  pwd
+  410  cd ..
+  411  cd ..
+  412  python M1L6.py
+  413  python M1L6.py
+  414  python M1L6.py
+  415  python M1L6.py
+  416  python M1L6.py
+  417  python M1L6.py
+  418  pythoin M1L6.py
+  419  python M1L6.py
+  420  python M1L6.py
+  421  python M1L6.py
+  422  python M1L6.py
+  423  pwd
+  424  python M1L6.py
+  425  python M1L6.py
+  426  python M1L6.py
+  427  cd ..
+  428  python pathways_to_success.py
+  429  pwd
+  430  cd Week_1
+  431  ls
+  432  python M1L6.py
+  433  cd ..
+  434  cd Week_1
+  435  ls
+  436  cd 03_Pathways_To_Success_Part_2
+  437  ls
+  438  cd unsolved
+  439  ls
+  440  python pathways_to_success_part_2.py
+  441  pwd
+  442  python pathways_to_success_part_2.py
+  443  python pathways_to_success_part_2.py
+  444  pwd
+  445  conda activate dev
+  446  pip -V
+  447  pip freeze
+  448  pip install fire
+  449  pip install questionary
+  450  cd loan_analyzer.py
+  451  cd desktop
+  452  ls
+  453  cd github_upload
+  454  ls
+  455  python loan_analyzer.py
+  456  python loan_analyzer.py
+  457  python loan_anaylzer.py
+  458  /usr/local/bin/python3
+  459  pwd
+  460  cd
+  461  cd desktop
+  462  ls
+  463  cd FinTech-Workspace
+  464  ls
+  465  pwd
+  466  cd Desktop
+  467  ls
+  468  cd Activities
+  469  ls
+  470  cd 01_Stu_Python_Code_Drills
+  471  ls
+  472  cd Unsolved
+  473  ls
+  474  cd 01-variables-01
+  475  ls
+  476  cd Unsolved
+  477  ls
+  478  python variable-01.py
+  479  cd ..
+  480  cd ~/
+  481  cd Desktop
+  482  ls
+  483  cd github_upload
+  484  ls
+  485  pyton loan_analyzer
+  486  python loan_analyser.py
+  487  python loan_analyzer.py
+  488  python loan_analyzer.py
+  489  jupyter lab
+  490  pbcopy < ~/.ssh/id_ed25519.pub
+  491  pbcopy < ~/.ssh/id_rsa.pub
+  492  /usr/local/bin/python3 /Users/vviiiis/Desktop/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  493  python lists-01.py
+  494  cd desktop
+  495  ls
+  496  cd Activities
+  497  ls
+  498  05_Stu_ATM_Modularization
+  499  cd 05_Stu_ATM_Modularization
+  500  ls
+  501  cd unsolved
+  502  ls
+  503  conda activate dev
+  504  python atm.py
+  505  python atm.py
+  506  pip install fire
+  507  pip install fire
+  508  cd
+  509  cd desktop
+  510  cd FinTech-Workspace
+  511  ls
+  512  cd week_2
+  513  ls
+  514  python cli.py
+  515  python cli.py --pants=True
+  516  python cli.py --pants=True
+  517  pip install questionary
+  518  cd desktop
+  519  ls
+  520  cd FinTech_Workspace
+  521  cd FinTech-Workspace
+  522  ls
+  523  cd Week_s
+  524  python dialog.py
+  525  cd Week_2
+  526  conda activate dev
+  527  python dialog.py
+  528  python dialog.py
+  529  python dialog.py
+  530  git config --global user.name John Willis
+  531  git config --global user.email jtwillis113@gmail.com
+  532  git config --list
+  533  git config --global user.name VViIIis
+  534  git config --list
+  535  cd FinTech-Workspace
+  536  cd ..
+  537  cd desktop
+  538  cd Desktop
+  539  cd FinTech_Workspace
+  540  ls
+  541  cd FinTech-Workspace
+  542  ls
+  543  git clone git@github.com:VViIIis/Test_Repo.git
+  544  git status
+  545  ls
+  546  cd Test_Repo
+  547  git status
+  548  git add README.md
+  549  git status
+  550  cd ..
+  551  ls
+  552  cd github_upload
+  553  ls
+  554  Challenge2
+  555  cd Challenge2
+  556  ls
+  557  cd Starter_Code
+  558  ls
+  559  cd loan_qualifier_app
+  560  git init
+  561  git add
+  562  git add app.py
+  563  git add .data
+  564  git status
+  565  git add README.d
+  566  git add README.md
+  567  git add data/
+  568  git add qualifier/
+  569  git status
+  570  git commit -m'This commit represents the initial commit with the starter code'
+  571  git push
+  572  git remote add origin git@github.com:VViIIis/LoanQualifierApp.git
+  573  git push origin
+  574  git push --set-upstream origin master
+  575  pwd
+  576  ls
+  577  conda activate dev
+  578  python app.py
+  579  python app.py
+  580  cd desktop
+  581  ls
+  582  cd FinTech-Workspace
+  583  ls
+  584  cd week_2
+  585  cd atm.py
+  586  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_2/UCB-VIRT-FIN-PT-03-2022-U-B-main/Activities/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  587  cd ~/
+  588  cd /Users/vviiiis/Desktop/FinTech-Workspace/Week_2/UCB-VIRT-FIN-PT-03-2022-U-B-main/Activities/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  589  /Users/vviiiis/Desktop/FinTech-Workspace/Week_2/UCB-VIRT-FIN-PT-03-2022-U-B-main/Activities/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/
+  590  conda activate dev
+  591  python atm.py
+  592  ls
+  593  cd desktop
+  594  cd FinTech-Workspace
+  595  cd Week_2
+  596  ls
+  597  cd UCB-VIRT-FIN-PT-03-2022-U-B-main
+  598  ls
+  599  cd activities
+  600  ls
+  601  cd 02-Financial-Applications-Python
+  602  ls
+  603  cd 2
+  604  ls
+  605  cd activities
+  606  ls
+  607  cd 01_Ins_ATM_Application
+  608  ls
+  609  cd unsolved
+  610  ls
+  611  python atm.py
+  612  cd atm
+  613  ls
+  614  python atm.py
+  615  python atm.py
+  616  conda activate dev
+  617  jupyter lab
+  618  conda deactivate
+  619  conda activate dev
+  620  jupyter lab
+  621  conda deactivate
+  622  conda activate dev
+  623  jupyter lab
+  624  conda deactivate
+  625  ls
+  626  conda activate dev
+  627  jupyter lab
+  628  conda activate dev
+  629  jupyter lab
+  630  conda activate dev
+  631  jupyter lab
+  632  conda activate dev
+  633  jupyter lab
+  634  conda activate dev
+  635  jupyter lab
+  636  conda activate dev
+  637  jupyter lab
+  638  conda activate dev
+  639  jupyter lab
+  640  conda activate dev
+  641  python jupyterlab
+  642  python jupyter labs
+  643  jupyter lab
+  644  git status
+  645  ls
+  646  cd activities
+  647  conda activate dev
+  648  jupyter lab
+  649  conda activate dev
+  650  git status
+  651  git add data
+  652  git add qualifier
+  653  git status
+  654  git add README.md
+  655  git add app.py
+  656  git status
+  657  git commit -m"Commit on 4/7"
+  658  git push
+  659  git rm save_csv
+  660  ls
+  661  git status
+  662  git add README.md
+  663  git status
+  664  git commit -"Final commit"
+  665  git commit -m"Final Commit"
+  666  git push
+  667  git push master
+  668  git push
+  669  git pull
+  670  conda activate dev
+  671  python app.py
+  672  python app.py
+  673  git status
+  674  git commit -m"Final commit"
+  675  git add data/qualifying_loans
+  676  git add data/qualifying_loans.csv
+  677  git status
+  678  git status
+  679  git add data/qualifying_loans1.csv
+  680  git status
+  681  git push
+  682  conda activate dev
+  683  ls
+  684  python app.py
+  685  python app.py
+  686  python app.py
+  687  cd ..
+  688  cd ..
+  689  cd ..
+  690  cd ..
+  691  ls
+  692  cd UCB-VIRT-FIN-PT-03-2022-U-B-main
+  693  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2022-U-B.git
+  694  cd ..
+  695  cd ..
+  696  cd Desktop
+  697  cd FinTech-Workspace
+  698  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2022-U-B.git
+  699  cd UCB-VIRT-FIN-PT-03-2022-U-B
+  700  git pull
+  701  jupyter lab
+  702  conda activate dev
+  703  conda list pandas
+  704  conda list jupyterlab
+  705  conda activate dev
+  706  python -m ipykernel install
+  707  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  708  jupyter lab
+  709  conda deactivate
+  710  git status
+  711  git add app.py
+  712  git add qualifier/utils/save_csv.py
+  713  git status
+  714  git commit -m"Final commit"
+  715  git push
+  716  conda activate dev
+  717  python app.py
+  718  python app.py
+  719  python app.py
