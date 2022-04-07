@@ -1,12 +1,12 @@
 # Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application allows the user to input basic financial information which outputs a lsting of qualified loans.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+The application is coded via Python and uses fire and questionary databases.
 
 ---
 
@@ -20,7 +20,7 @@ from pathlib import Path
 
 ## Usage
 
-this is an example of how the loan qualifier application works.
+This is an example of how the loan qualifier application works.
 
 ? Enter a file path to a rate-sheet (.csv): data/daily_rate_sheet.csv
 ? What's your credit score? 750
@@ -38,10 +38,10 @@ Found 15 qualifying loans
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Application created by John Willis
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT
