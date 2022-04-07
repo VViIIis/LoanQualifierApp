@@ -122,15 +122,6 @@ def save_qualifying_loans(qualifying_loans):
         csvpath = Path(csvpath)
         save_csv(csvpath, qualifying_loans)
 
-    # 
-    #     
-    # else:
-    #     
-    #     questionary.path("Where do you want to save the file?").ask()
-
-    # return qualifying_loans 
-
-
 def run():
     """The main function for running the script."""
 
